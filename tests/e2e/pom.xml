@@ -18,7 +18,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <wildfly.directory>wildfly-10.1.0.Final</wildfly.directory>
+        <wildfly.directory>wildfly-${wildfly.version}</wildfly.directory>
         <wildfly.port>10090</wildfly.port>
     </properties>
 
